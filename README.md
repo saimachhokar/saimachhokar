@@ -1,5 +1,4 @@
-# Saima-Singh
-Personal GitHub profile and software engineering portfolio.
+
 # Hi, I'm Saima Singh! 👋
 
 Computer Science senior at Arizona State University, graduating in May 2027.
